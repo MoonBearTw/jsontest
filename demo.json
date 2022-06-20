@@ -1,7 +1,7 @@
 [
-    { "id": 1,"name": "宏基電腦", "images": "computer01.png","price": "13540", "description": "2022最新主機"},
-    { "id": 2, "name": "華碩電腦", "images": "computer02.png","price": "29540", "description": "強檔 I9 主機"},
-    { "id": 3, "name": "戴爾電腦","images": "computer03.png", "price": "23540","description": "商務機型" },
-    { "id": 4, "name": "戴爾電腦", "images": "computer04.png", "price": "15540","description": "遊戲機型、獨立顯示卡"},
-    { "id": 5, "name": "技嘉電腦", "images": "computer05.png","price": "18540", "description": "遊戲機型、2022獨立顯示卡"}
+    { "id": 1,"name": "宏基電腦", "images": "computer01.png","price": "13540", "description": "2022最新主機","quantity":0},
+    { "id": 2, "name": "華碩電腦", "images": "computer02.png","price": "29540", "description": "強檔 I9 主機","quantity":0},
+    { "id": 3, "name": "戴爾電腦","images": "computer03.png", "price": "23540","description": "商務機型","quantity":0},
+    { "id": 4, "name": "戴爾電腦", "images": "computer04.png", "price": "15540","description": "遊戲機型、獨立顯示卡","quantity":0},
+    { "id": 5, "name": "技嘉電腦", "images": "computer05.png","price": "18540", "description": "遊戲機型、2022獨立顯示卡","quantity":0}
 ]
